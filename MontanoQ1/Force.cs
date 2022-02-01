@@ -63,7 +63,7 @@ namespace MontanoQ1
         {
             this.obj2 = obj2;
         }
-        public void SetMassObj1( double massObj1)
+        public void SetMassObj1(double massObj1)
         {
             this.massObj1 = massObj1;
             ForceCalc();
