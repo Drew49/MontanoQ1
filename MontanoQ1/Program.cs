@@ -25,7 +25,7 @@ namespace MontanoQ1
                 double massObj1 = double.Parse(GetInput("What is the mass of obj1 in kilograms?: "));
                 st.SetMassObj1(massObj1);
                 double massObj2 = double.Parse(GetInput("What is the mass of obj2 in kilograms?: "));
-                st.SetMassObj1(massObj2);
+                st.SetMassObj2(massObj2);
                 double distanceBewtweenObjs = double.Parse("What is the distance between the objects in meters?: ");
                 st.SetDistanceBetweenObjs(distanceBewtweenObjs);
 
