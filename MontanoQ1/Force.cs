@@ -46,7 +46,7 @@ namespace MontanoQ1
         }
         public string GetForceSummary()
         {
-            return "The force between " + obj1 + " and " + obj2 + " is " + force + " newtonw.";
+            return "The force between " + obj1 + " and " + obj2 + " is " + force + " newtons.";
         }
         public void ForceCalc()
         {
